@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <Id>1</Id>
+    <AccountNumber>24595</AccountNumber>
+    <Name>Brandon Arenas</Name>
+    <CI>string</CI>
+    <City>string</City>
+    <Password>Brandon151.</Password>
+    <Email>brrandum151@gmail.com</Email>
+    <Phone>string</Phone>
+    <Gender>1</Gender>
+    <Token>string</Token>
+  </User>
+  <User>
+    <Id>2</Id>
+    <AccountNumber>45157</AccountNumber>
+    <Name>juan medrano</Name>
+    <CI>av humboltd</CI>
+    <City>Cochabamba</City>
+    <Password>Juan123.</Password>
+    <Email>juan123@gmail.com</Email>
+    <Phone>75926215</Phone>
+    <Gender>0</Gender>
+  </User>
+  <User>
+    <Id>3</Id>
+    <AccountNumber>74721</AccountNumber>
+    <Name>Pablo Aguirre</Name>
+    <CI>AV. Blanco galindo</CI>
+    <City>La paz</City>
+    <Password>Pablo123.</Password>
+    <Email>pablo123@gmail.com</Email>
+    <Phone>75926125</Phone>
+    <Gender>0</Gender>
+  </User>
+  <User>
+    <Id>4</Id>
+    <AccountNumber>77660</AccountNumber>
+    <Name>tomito</Name>
+    <CI>caro super</CI>
+    <City>Oruro</City>
+    <Password>123456Tomito$</Password>
+    <Email>tomito@gmail.com</Email>
+    <Phone>76145594</Phone>
+    <Gender>0</Gender>
+  </User>
+</ArrayOfUser>
